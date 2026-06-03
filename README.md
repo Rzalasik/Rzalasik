@@ -45,14 +45,6 @@ Apaixonado por qualidade de software e automação. Trabalho garantindo a confia
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Rzalasik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rzalasik&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 <p align="center">
   <i>Qualidade não é um ato, é um hábito. — Aristóteles</i>
