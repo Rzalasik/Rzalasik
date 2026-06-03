@@ -13,7 +13,7 @@ Apaixonado por qualidade de software e automação. Trabalho garantindo a confia
 - 🛠️ Aprendendo e aplicando **Karate DSL**, **BDD/Gherkin** e automação de testes de API no dia a dia
 - 📐 Estudando **UML** e modelagem de sistemas — curioso por regras de negócio, fluxos e processos
 - 🔗 Integrando testes com **Qase TMS** e pipelines de **GitHub Actions**
-- 📚 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 📚 Cursando **ADS** na **[UMFG](https://umfg.edu.br/home/)** — 3º período
 
 ---
 
