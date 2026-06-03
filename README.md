@@ -11,7 +11,7 @@ Apaixonado por qualidade de software e automação. Trabalho garantindo a confia
 - 🏢 QA Engineer na **[Irrah Group](https://irrahtech.com/)**
 - 🔭 Testando **[HubMessage](https://hubmessage.io)**, **[Z-API](https://z-api.io)**, **[GPTMaker](https://gptmaker.ai)**, **[Dispara.ai](https://dispara.ai)**, **[PlugChat](https://www.plugchat.com.br)** e **[Kigi](https://kigi.com.br)**
 - 🛠️ Aprendendo e aplicando **Karate DSL**, **BDD/Gherkin** e automação de testes de API no dia a dia
-- 📐 Aplicando **UML** na modelagem de requisitos e análise de sistemas
+- 📐 Estudando **UML** e modelagem de sistemas — curioso por regras de negócio, fluxos e processos
 - 🔗 Integrando testes com **Qase TMS** e pipelines de **GitHub Actions**
 - 📚 Estudante de **Análise e Desenvolvimento de Sistemas**
 
