@@ -4,6 +4,15 @@
 
 Apaixonado por qualidade de software e pela cultura de entregas confiáveis. Atuo garantindo a estabilidade das plataformas da Irrah Tech — desde testes manuais exploratórios até automação de fluxos críticos de API.
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/ryan-andrade-3a3709307/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/ryn.andrade/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## 🧑‍💻 Sobre mim
