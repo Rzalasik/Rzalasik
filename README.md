@@ -1,4 +1,4 @@
-# Olá, eu sou Ryan Andrade 👋
+# Olá, eu sou Ryan Andrade 
 
 **Quality Assurance @ [Irrah Tech](https://irrahtech.com/) · Automação · Testes de API · BDD**
 
@@ -17,7 +17,7 @@ Apaixonado por qualidade de software e pela cultura de entregas confiáveis. Gos
 
 ## 🧑‍💻 Sobre mim
 
-- 🏢 Quality Assurance na **[Irrah Tech](https://irrahtech.com/)** — Maringá, PR
+- 🏢 Quality Assurance na **[Irrah Tech](https://irrahtech.com/)** — Cianorte/Maringá, PR
 - 🔭 Testando **[HubMessage](https://hubmessage.io)**, **[Z-API](https://z-api.io)**, **[GPTMaker](https://gptmaker.ai)**, **[Dispara.ai](https://dispara.ai)**, **[PlugChat](https://www.plugchat.com.br)** e **[Kigi](https://kigi.com.br)**
 - 🧪 Executo testes funcionais, regressivos, exploratórios e de API no dia a dia
 - 🛠️ Aprendendo e aplicando **Karate DSL**, **BDD/Gherkin** e automação de testes de API no dia a dia
