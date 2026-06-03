@@ -1,15 +1,16 @@
 # Olá, eu sou Ryan Andrade 👋
 
-**QA Engineer @ [Irrah Group](https://irrahtech.com/) · Automação de API · BDD · Testes de Software**
+**Analista de Qualidade Jr. @ [Irrah Tech](https://irrahtech.com/) · QA · Automação · Testes de API**
 
-Apaixonado por qualidade de software e automação. Trabalho garantindo a confiabilidade das plataformas da Irrah Group — do health check à integração com APIs de produção em ambientes reais.
+Apaixonado por qualidade de software e pela cultura de entregas confiáveis. Atuo garantindo a estabilidade das plataformas da Irrah Tech — desde testes manuais exploratórios até automação de fluxos críticos de API.
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
-- 🏢 QA Engineer na **[Irrah Group](https://irrahtech.com/)**
+- 🏢 Analista de QA Jr. na **[Irrah Tech](https://irrahtech.com/)** — Maringá, PR
 - 🔭 Testando **[HubMessage](https://hubmessage.io)**, **[Z-API](https://z-api.io)**, **[GPTMaker](https://gptmaker.ai)**, **[Dispara.ai](https://dispara.ai)**, **[PlugChat](https://www.plugchat.com.br)** e **[Kigi](https://kigi.com.br)**
+- 🧪 Executo testes funcionais, regressivos, exploratórios e de API no dia a dia
 - 🛠️ Aprendendo e aplicando **Karate DSL**, **BDD/Gherkin** e automação de testes de API no dia a dia
 - 📐 Estudando **UML** e modelagem de sistemas — curioso por regras de negócio, fluxos e processos
 - 🔗 Integrando testes com **Qase TMS** e pipelines de **GitHub Actions**
@@ -26,11 +27,13 @@ Apaixonado por qualidade de software e automação. Trabalho garantindo a confia
   <img src="https://img.shields.io/badge/Gherkin-BDD-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/UML-Modelagem-0078D4?style=for-the-badge&logo=diagrams.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/UML-0078D4?style=for-the-badge&logo=diagrams.net&logoColor=white" />
 </p>
 
 ---
@@ -47,7 +50,6 @@ Apaixonado por qualidade de software e automação. Trabalho garantindo a confia
 | 🛍️ [Kigi](https://kigi.com.br) | ERP para gestão de lojas físicas e virtuais do setor de moda |
 
 ---
-
 
 <p align="center">
   <i>Qualidade não é um ato, é um hábito. — Aristóteles</i>
