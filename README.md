@@ -2,7 +2,7 @@
 
 **Quality Assurance @ [Irrah Tech](https://irrahtech.com/) · Automação · Testes de API · BDD**
 
-Apaixonado por qualidade de software e pela cultura de entregas confiáveis. Atuo garantindo a estabilidade das plataformas da Irrah Tech — desde testes manuais exploratórios até automação de fluxos críticos de API.
+Apaixonado por qualidade de software e pela cultura de entregas confiáveis. Gosto de automatizar, mas acredito em fazer antes à mão — sigo os 6 caminhos para cobrir bem cada cenário, com foco especial na regressão da task antes de qualquer entrega.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ryan-andrade-3a3709307/" target="_blank">
