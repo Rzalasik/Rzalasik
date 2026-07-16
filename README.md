@@ -1,65 +1,50 @@
-# Olá, eu sou Ryan Andrade 👋
+### Olá, eu sou Ryan Andrade 👋
+**Analista de Teste JR I @ Irrah Tech** · QA & Product Owner · Automação · Testes de API · BDD
 
-**Quality Assurance @ [Irrah Tech](https://irrahtech.com/) · Automação · Testes de API · BDD**
-
-Apaixonado por qualidade de software e pela cultura de entregas confiáveis. Gosto de automatizar, mas acredito em fazer antes à mão — sigo os 6 caminhos para cobrir bem cada cenário, com foco especial na regressão da task antes de qualquer entrega.
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ryan-andrade-3a3709307/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/ryn.andrade/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+Apaixonado por qualidade de software e pela cultura de entregas confiáveis. Gosto de
+automatizar, mas acredito em fazer antes à mão — sigo os 6 caminhos para cobrir bem
+cada cenário, com foco especial na regressão da task antes de qualquer entrega.
 
 ---
 
-## 🧑‍💻 Sobre mim
+### 🧑‍💻 Sobre mim
 
-- 🏢 Quality Assurance na **[Irrah Tech](https://irrahtech.com/)** — Maringá, PR
-- 🔭 Testando **[HubMessage](https://hubmessage.io)**, **[Z-API](https://z-api.io)**, **[GPTMaker](https://gptmaker.ai)**, **[Dispara.ai](https://dispara.ai)**, **[PlugChat](https://www.plugchat.com.br)** e **[Kigi](https://kigi.com.br)**
+- 🏢 Analista de Teste JR I na **Irrah Tech** — Cianorte, PR
+- 🎯 Atuo em uma função híbrida: garantia de qualidade + práticas de Product Owner
+  (backlog, user stories, cerimônias ágeis)
+- 🔭 Testando HubMessage, Z-API, GPTMaker, Dispara.ai, PlugChat e Kigi
 - 🧪 Executo testes funcionais, regressivos, exploratórios e de API no dia a dia
-- 🛠️ Aprendendo e aplicando **Karate DSL**, **BDD/Gherkin** e automação de testes de API no dia a dia
-- 📐 Estudando **UML** e modelagem de sistemas — curioso por regras de negócio, fluxos e processos
-- 🔗 Integrando testes com **Qase TMS** e pipelines de **GitHub Actions**
-- ☕ Estudando **Java**, **Spring Boot**, **PostgreSQL** e **JPA/Hibernate** com foco em backend e performance
-- 📚 Cursando **ADS** na **[UMFG](https://umfg.edu.br/home/)** — 3º período
+- 🛠️ Aplicando Karate DSL, BDD/Gherkin e automação de testes de API
+- 📐 Estudando UML e modelagem de sistemas — curioso por regras de negócio, fluxos e processos
+- 🔗 Integrando testes com Qase TMS e pipelines de GitHub Actions
+- ☕ Estudando Java, Spring Boot, PostgreSQL e JPA/Hibernate com foco em backend e performance
+- 📚 Cursando ADS na UMFG — 3º período
 
 ---
 
-## 🚀 Stack
+### 🚀 Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Karate_DSL-00B388?style=for-the-badge&logo=karate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gherkin-BDD-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/UML-0078D4?style=for-the-badge&logo=diagrams.net&logoColor=white" />
-</p>
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Karate](https://img.shields.io/badge/-Karate%20DSL-3D8361?style=flat-square)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 🏭 Produtos que testo
+### 🏭 Produtos que testo
 
 | Produto | O que faz |
 |---|---|
-| 💬 [HubMessage](https://hubmessage.io) | Plataforma omnichannel que centraliza atendimento via WhatsApp, Instagram e Telegram |
-| ⚡ [Z-API](https://z-api.io) | API de integração com WhatsApp para automações, chatbots e notificações |
-| 🤖 [GPTMaker](https://gptmaker.ai) | Criação de agentes de IA para atendimento e vendas sem código |
-| 🚀 [Dispara.ai](https://dispara.ai) | Disparos em massa de mensagens WhatsApp com métricas de engajamento |
-| 🔌 [PlugChat](https://www.plugchat.com.br) | Central de atendimento corporativo com múltiplos atendentes no WhatsApp |
-| 🛍️ [Kigi](https://kigi.com.br) | ERP para gestão de lojas físicas e virtuais do setor de moda |
+| 💬 HubMessage | Plataforma omnichannel que centraliza atendimento via WhatsApp, Instagram e Telegram |
+| ⚡ Z-API | API de integração com WhatsApp para automações, chatbots e notificações |
+| 🤖 GPTMaker | Criação de agentes de IA para atendimento e vendas sem código |
+| 🚀 Dispara.ai | Disparos em massa de mensagens WhatsApp com métricas de engajamento |
+| 🔌 PlugChat | Central de atendimento corporativo com múltiplos atendentes no WhatsApp |
+| 🛍️ Kigi | ERP para gestão de lojas físicas e virtuais do setor de moda |
 
 ---
 
-<p align="center">
-  <i>Qualidade não é um ato, é um hábito. — Aristóteles</i>
-</p>
+> "Qualidade não é um ato, é um hábito." — Aristóteles
