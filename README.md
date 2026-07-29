@@ -1,5 +1,5 @@
 ### Olá, eu sou Ryan Andrade 👋
-**Analista de Teste JR I @ Irrah Tech** · QA & Product Owner · Automação · Testes de API · BDD
+**Analista de Teste JR I @ Irrah Tech** · QA · Automação · Testes de API · BDD
 
 Apaixonado por qualidade de software e pela cultura de entregas confiáveis. Gosto de
 automatizar, mas acredito em fazer antes à mão — sigo os 6 caminhos para cobrir bem
@@ -9,7 +9,7 @@ cada cenário, com foco especial na regressão da task antes de qualquer entrega
 
 ### 🧑‍💻 Sobre mim
 
-- 🏢 Analista de Teste JR I na **Irrah Tech** — Cianorte, PR
+- 🏢 Analista de Teste JR  na **Irrah Tech** — Cianorte, PR
 - 🎯 Atuo em uma função híbrida: garantia de qualidade + práticas de Product Owner
   (backlog, user stories, cerimônias ágeis)
 - 🔭 Testando HubMessage, Z-API, GPTMaker, Dispara.ai, PlugChat e Kigi
